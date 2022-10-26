@@ -28,5 +28,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## This is the screenshot of the App 
 
-<img src="https://github.com/PrakhyatKhati/teamapp/blob/main/App_Screeshot.png" width=400>
+<img src="https://github.com/PrakhyatKhati/teamapp/blob/main/App_Screeshot.png">
 
