@@ -1,0 +1,6 @@
+/* You can add global styles to this file, and also import other style files */
+/*
+So this is the globally style sheet. 
+So here we wull be using sematic ui-css as a globel css .
+*/
+@import  "semantic-ui-css/semantic.css";
